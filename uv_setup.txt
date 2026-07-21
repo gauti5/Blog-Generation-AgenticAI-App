@@ -1,0 +1,21 @@
+
+
+# Install UV - faster than PIP
+
+pip install UV
+uv init
+
+# create environment
+
+uv venv
+activate
+
+# install packages
+
+uv add langchain
+uv add langgraph
+uv add python-dotenv
+uv add langchain-groq
+etc...
+
+uv add -r requirements.txt
