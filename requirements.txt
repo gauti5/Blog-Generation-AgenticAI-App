@@ -10,3 +10,4 @@ uvicorn
 watchdog
 fastapi
 uvicorn
+langgraph-cli[inmem]
