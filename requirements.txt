@@ -8,3 +8,5 @@ uv
 fastapi
 uvicorn
 watchdog
+fastapi
+uvicorn
